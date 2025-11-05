@@ -103,3 +103,4 @@ Cierre de sesión exitoso
 
 
 
+Nota: Para este proyecto se utilizó Karata.jar, se descargó de la web y se agrego en la carpeta Tools.
