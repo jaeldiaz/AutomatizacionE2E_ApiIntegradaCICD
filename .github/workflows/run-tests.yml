@@ -47,7 +47,7 @@ jobs:
 
       # 6️⃣ Ejecutar tests API (Karate)
       - name: Run API Tests (Karate)
-        run: mvn test
+        run: java -jar tools/karate.jar src/api-tests
 
       # 7️⃣ Ejecutar tests E2E (Playwright + Cucumber)
       - name: Run E2E Tests
